@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-image: url(../image-lion-background.png);
+    background-image: url(/images/image-lion-background.png);
     background-position: top center;
     background-repeat: no-repeat;
     font-family: 'Roboto', sans-serif;
